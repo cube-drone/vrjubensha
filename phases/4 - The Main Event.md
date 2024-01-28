@@ -1,10 +1,8 @@
-Each character is once again ushered into separate dressing rooms where they can read their notes for the next segment.
-
-Victor Tam has been murdered! His body is found floating in the Yacht's pool, with a bottle of whiskey floating next to him in the pool.  
+Victor Tam has been murdered! His body is found floating in the Yacht's pool.
 ## Set
-This set is the primary set that will be used for the bulk of the story. 
+This set is the primary set that will be used for the bulk of the story: most of the story development should be organic and environment-driven. 
 ### The Pool
-This is a large area and the place where the players enter the story. This pool is on the back of the boat, and floating in the pool, face-down, is the body of Victor Tam, who is wearing a white suit. His skin is blue. There's no blood. 
+This is a large area and the place where the players enter the story. This pool is on the back of the boat, and floating in the pool, face-down, is the body of Victor Tam, who is wearing a white suit. His skin is blue. There's no blood. There is an empty bottle of whiskey floating next to him in the pool.
 
 Around the edge of the pool are deck chairs. Next to the pool is a pool bar area, which is covered by the Master Bedroom.
 
