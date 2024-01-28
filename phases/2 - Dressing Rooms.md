@@ -28,7 +28,7 @@ When players are ready, they can move on to Scene 3: The Pier
 * you are angry
 * you are reliable
 * you are loud
-* you are a hank hill type
+* (pictures of hank hill)
 * you cook for Victor
 * you and Florist Jordan Plum are secretly in love, Victor disapproves and has threatened to write her out of his will
 * you are a murderer
@@ -40,7 +40,7 @@ When players are ready, they can move on to Scene 3: The Pier
 * you are inquisitive
 * you are absent-minded
 * you are smarter than everyone else
-* you are a sherlock holmes type
+* (pictures of sherlock holmes, house)
 * you are Victor's third child
 * you have significant drug and gambling debts
 * you are a murderer
@@ -52,7 +52,7 @@ When players are ready, they can move on to Scene 3: The Pier
 * you are shy
 * you are cunning
 * you are sweet
-* you are a fluttershy type
+* (pictures of fluttershy, mantis)
 * you are Victor's second child
 * you and Chef Logan Red are secretly in love, Victor disapproves and has threatened to write her out of his will
 * you are a murderer
@@ -65,7 +65,7 @@ When players are ready, they can move on to Scene 3: The Pier
 * you are fake
 * you have 10,000 followers on instagram
 * you want to be the center of attention
-* you are a jenna maroney type
+* (pictures of jenna maroney, the top google image result for "influencer", kim kardashian)
 * you are Victor's first child
 * you've discovered your father's infirmity and are concerned that he will destroy the company's reputation and fortune
 * you are a murderer
@@ -79,6 +79,7 @@ When players are ready, they can move on to Scene 3: The Pier
 * you are stiff
 * you are competent
 * you are Victor's head of staff
+* (just a bunch of pictures of various butlers and stiff household managers)
 * Victor treats you terribly
 * you are a murderer
 * you have been swapping Victor's heart medicine with tic-tacs for months
